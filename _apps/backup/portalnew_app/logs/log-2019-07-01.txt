@@ -1,0 +1,23 @@
+ERROR - 2019-07-01 10:29:16 --> Severity: Notice --> Undefined property: stdClass::$trainer_nik E:\www\WEB\bssmitlab\_apps\portal_app\controllers\hrDepartment\cdetail\sysdetailpeople.php 207
+ERROR - 2019-07-01 10:29:24 --> Severity: Notice --> Undefined property: stdClass::$trainer_nik E:\www\WEB\bssmitlab\_apps\portal_app\controllers\hrDepartment\cdetail\sysdetailpeople.php 207
+ERROR - 2019-07-01 13:43:31 --> Severity: error --> Exception: Call to undefined function sqlsrv_connect() D:\www\WEB\bssmitlab\_system\database\drivers\sqlsrv\sqlsrv_driver.php 144
+ERROR - 2019-07-01 13:43:31 --> Severity: Core Warning --> Module 'pdo_sqlite' already loaded Unknown 0
+ERROR - 2019-07-01 13:44:54 --> Severity: error --> Exception: Call to undefined function sqlsrv_connect() D:\www\WEB\bssmitlab\_system\database\drivers\sqlsrv\sqlsrv_driver.php 144
+ERROR - 2019-07-01 13:44:55 --> Severity: error --> Exception: Call to undefined function sqlsrv_connect() D:\www\WEB\bssmitlab\_system\database\drivers\sqlsrv\sqlsrv_driver.php 144
+ERROR - 2019-07-01 13:45:30 --> Severity: error --> Exception: Call to undefined function sqlsrv_connect() D:\www\WEB\bssmitlab\_system\database\drivers\sqlsrv\sqlsrv_driver.php 144
+ERROR - 2019-07-01 13:45:32 --> Severity: error --> Exception: Call to undefined function sqlsrv_connect() D:\www\WEB\bssmitlab\_system\database\drivers\sqlsrv\sqlsrv_driver.php 144
+ERROR - 2019-07-01 13:45:32 --> Severity: error --> Exception: Call to undefined function sqlsrv_connect() D:\www\WEB\bssmitlab\_system\database\drivers\sqlsrv\sqlsrv_driver.php 144
+ERROR - 2019-07-01 13:46:09 --> Severity: error --> Exception: Call to undefined function sqlsrv_connect() D:\www\WEB\bssmitlab\_system\database\drivers\sqlsrv\sqlsrv_driver.php 144
+ERROR - 2019-07-01 13:51:37 --> Severity: Notice --> Undefined variable: header D:\www\WEB\bssmitlab\_apps\portalnew_app\views\pages\plogin\vlogin.php 30
+ERROR - 2019-07-01 13:56:58 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/portal.png D:\www\WEB\bssmitlab\_apps\portalnew_app\controllers\syslink.php 19
+ERROR - 2019-07-01 13:56:59 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/portal.png D:\www\WEB\bssmitlab\_apps\portalnew_app\controllers\syslink.php 20
+ERROR - 2019-07-01 13:56:59 --> Severity: Warning --> readfile(E:\/images/portal/portal.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalnew_app\controllers\syslink.php 23
+ERROR - 2019-07-01 13:57:01 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/portal.png D:\www\WEB\bssmitlab\_apps\portalnew_app\controllers\syslink.php 19
+ERROR - 2019-07-01 13:57:01 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/portal.png D:\www\WEB\bssmitlab\_apps\portalnew_app\controllers\syslink.php 20
+ERROR - 2019-07-01 13:57:01 --> Severity: Warning --> readfile(E:\/images/portal/portal.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalnew_app\controllers\syslink.php 23
+ERROR - 2019-07-01 13:57:01 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/portal.png D:\www\WEB\bssmitlab\_apps\portalnew_app\controllers\syslink.php 19
+ERROR - 2019-07-01 13:57:01 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/portal.png D:\www\WEB\bssmitlab\_apps\portalnew_app\controllers\syslink.php 20
+ERROR - 2019-07-01 13:57:01 --> Severity: Warning --> readfile(E:\/images/portal/portal.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalnew_app\controllers\syslink.php 23
+ERROR - 2019-07-01 13:57:08 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/portal.png D:\www\WEB\bssmitlab\_apps\portalnew_app\controllers\syslink.php 19
+ERROR - 2019-07-01 13:57:08 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/portal.png D:\www\WEB\bssmitlab\_apps\portalnew_app\controllers\syslink.php 20
+ERROR - 2019-07-01 13:57:08 --> Severity: Warning --> readfile(E:\/images/portal/portal.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalnew_app\controllers\syslink.php 23

@@ -1,0 +1,36 @@
+ERROR - 2020-08-14 21:08:18 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Invalid object name 'SHE.dbo.SA_mst_inspeksi_hdr'. - Invalid query: SELECT  TOP 10 "A"."no_dok", CONVERT (VARCHAR(10), "A"."Tanggal", 103) as tanggal, "B"."judul_inspeksi", "A"."departemen", "C"."nama", "E"."inspektor", "A"."lokasi", "A"."jam", "A"."shift", "A"."nik_validasi", "D"."nama" as "nama_validasi", CONVERT (VARCHAR(10), "A"."tgl_validasi", 103) + ' ' + CONVERT (VARCHAR (5), "A"."tgl_validasi", 14) as tanggal_validasi
+FROM "SHE"."dbo"."SAP_inspeksi_hdr" "A"
+LEFT OUTER JOIN "SHE"."dbo"."SA_mst_inspeksi_hdr" "B" ON "B"."kode_ins"= "A"."kode_ins"
+LEFT OUTER JOIN "SHE"."dbo"."vKaryawan" "C" ON "C"."nik"= "A"."dibuat_oleh"
+LEFT OUTER JOIN "SHE"."dbo"."vKaryawan" "D" ON "D"."nik"= "A"."nik_validasi"
+LEFT OUTER JOIN "SHE"."dbo"."SAP_inspeksi_dtl_2" "E" ON "A"."no_dok" = "E"."no_dok"
+WHERE "A"."batal" =0
+AND "E"."inspektor" = ''
+AND CONVERT(VARCHAR, A.Tanggal, 23) BETWEEN '2020-08-10' AND '2020-08-10' 
+ORDER BY "A"."tanggal" DESC
+
+ERROR - 2020-08-14 21:08:18 --> Severity: Error --> Call to a member function result() on boolean D:\www\WEB\bssmitlab\_apps\she_app\models\mhome\Mod_home.php 107
+ERROR - 2020-08-14 21:10:27 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Invalid object name 'SHE.dbo.SA_mst_inspeksi_hdr'. - Invalid query: SELECT  TOP 10 "A"."no_dok", CONVERT (VARCHAR(10), "A"."Tanggal", 103) as tanggal, "B"."judul_inspeksi", "A"."departemen", "C"."nama", "E"."inspektor", "A"."lokasi", "A"."jam", "A"."shift", "A"."nik_validasi", "D"."nama" as "nama_validasi", CONVERT (VARCHAR(10), "A"."tgl_validasi", 103) + ' ' + CONVERT (VARCHAR (5), "A"."tgl_validasi", 14) as tanggal_validasi
+FROM "SHE"."dbo"."SAP_inspeksi_hdr" "A"
+LEFT OUTER JOIN "SHE"."dbo"."SA_mst_inspeksi_hdr" "B" ON "B"."kode_ins"= "A"."kode_ins"
+LEFT OUTER JOIN "SHE"."dbo"."vKaryawan" "C" ON "C"."nik"= "A"."dibuat_oleh"
+LEFT OUTER JOIN "SHE"."dbo"."vKaryawan" "D" ON "D"."nik"= "A"."nik_validasi"
+LEFT OUTER JOIN "SHE"."dbo"."SAP_inspeksi_dtl_2" "E" ON "A"."no_dok" = "E"."no_dok"
+WHERE "A"."batal" =0
+OR E.inspektor IS NOT NULL
+AND CONVERT(VARCHAR, A.Tanggal, 23) BETWEEN '2020-08-10' AND '2020-08-10' 
+ORDER BY "A"."tanggal" DESC
+
+ERROR - 2020-08-14 21:10:27 --> Severity: Error --> Call to a member function result() on boolean D:\www\WEB\bssmitlab\_apps\she_app\models\mhome\Mod_home.php 109
+ERROR - 2020-08-14 21:12:49 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Invalid object name 'SHE.dbo.SA_mst_inspeksi_hdr'. - Invalid query: SELECT  TOP 10 "A"."no_dok", CONVERT (VARCHAR(10), "A"."Tanggal", 103) as tanggal, "B"."judul_inspeksi", "A"."departemen", "C"."nama", "E"."inspektor", "A"."lokasi", "A"."jam", "A"."shift", "A"."nik_validasi", "D"."nama" as "nama_validasi", CONVERT (VARCHAR(10), "A"."tgl_validasi", 103) + ' ' + CONVERT (VARCHAR (5), "A"."tgl_validasi", 14) as tanggal_validasi
+FROM "SHE"."dbo"."SAP_inspeksi_hdr" "A"
+LEFT OUTER JOIN "SHE"."dbo"."SA_mst_inspeksi_hdr" "B" ON "B"."kode_ins"= "A"."kode_ins"
+LEFT OUTER JOIN "SHE"."dbo"."vKaryawan" "C" ON "C"."nik"= "A"."dibuat_oleh"
+LEFT OUTER JOIN "SHE"."dbo"."vKaryawan" "D" ON "D"."nik"= "A"."nik_validasi"
+LEFT OUTER JOIN "SHE"."dbo"."SAP_inspeksi_dtl_2" "E" ON "A"."no_dok" = "E"."no_dok"
+WHERE "A"."batal" =0
+AND E.inspektor IS NOT NULL
+AND CONVERT(VARCHAR, A.Tanggal, 23) BETWEEN '2020-08-10' AND '2020-08-10' 
+ORDER BY "A"."tanggal" DESC
+
+ERROR - 2020-08-14 21:12:49 --> Severity: Error --> Call to a member function result() on boolean D:\www\WEB\bssmitlab\_apps\she_app\models\mhome\Mod_home.php 109

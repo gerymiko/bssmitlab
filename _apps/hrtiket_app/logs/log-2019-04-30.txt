@@ -1,0 +1,4 @@
+ERROR - 2019-04-30 09:28:45 --> Severity: Notice --> Undefined property: stdClass::$jenis_tiket D:\www\WEB\bssmitlab\_apps\hrtiket_app\controllers\csubmission\sysubmission.php 128
+ERROR - 2019-04-30 09:28:45 --> Severity: Notice --> Undefined property: stdClass::$jenis_tiket D:\www\WEB\bssmitlab\_apps\hrtiket_app\controllers\csubmission\sysubmission.php 128
+ERROR - 2019-04-30 09:29:51 --> Severity: Notice --> Undefined property: stdClass::$jenis_tiket D:\www\WEB\bssmitlab\_apps\hrtiket_app\controllers\csubmission\sysubmission.php 128
+ERROR - 2019-04-30 09:29:51 --> Severity: Notice --> Undefined property: stdClass::$jenis_tiket D:\www\WEB\bssmitlab\_apps\hrtiket_app\controllers\csubmission\sysubmission.php 128

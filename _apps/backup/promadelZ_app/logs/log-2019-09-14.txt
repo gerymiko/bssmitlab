@@ -1,0 +1,8 @@
+ERROR - 2019-09-14 11:32:04 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\promadel_app\views\pages\paccount\account.php 22
+ERROR - 2019-09-14 11:32:04 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\promadel_app\views\pages\paccount\account.php 26
+ERROR - 2019-09-14 11:32:04 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\promadel_app\views\pages\paccount\account.php 37
+ERROR - 2019-09-14 11:32:04 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\promadel_app\views\pages\paccount\account.php 41
+ERROR - 2019-09-14 11:32:04 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\promadel_app\views\pages\paccount\account.php 47
+ERROR - 2019-09-14 11:58:58 --> Severity: Notice --> Undefined property: stdClass::$username D:\www\WEB\bssmitlab\_apps\promadel_app\views\pages\paccount\edit.php 19
+ERROR - 2019-09-14 06:05:44 --> Severity: Parsing Error --> syntax error, unexpected 'check_old_password' (T_STRING), expecting variable (T_VARIABLE) D:\www\WEB\bssmitlab\_apps\promadel_app\controllers\account\caccount\sysaccount.php 67
+ERROR - 2019-09-14 06:05:44 --> Severity: Parsing Error --> syntax error, unexpected 'check_old_password' (T_STRING), expecting variable (T_VARIABLE) D:\www\WEB\bssmitlab\_apps\promadel_app\controllers\account\caccount\sysaccount.php 67

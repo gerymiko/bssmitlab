@@ -1,0 +1,18 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
+
+	class Mod_home extends CI_Model{
+
+		function __construct(){
+	        parent::__construct();
+	        $this->load->database();
+	    }
+
+	    private static function pregReps($string) { 
+	        return $result = preg_replace('/[^a-zA-Z0-9- _.]/','', $string);
+	    }
+
+	    private static function pregRepn($number) { 
+	        return $result = preg_replace('/[^0-9]/','', $number);
+	    }
+	}
+?>

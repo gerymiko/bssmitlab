@@ -1,0 +1,91 @@
+ERROR - 2018-12-20 15:55:52 --> Severity: Notice --> Undefined variable: people_id D:\www\WEB\bssmitlab\_apps\rekrutmen_app\controllers\account\cdashboard\sysaccount.php 59
+ERROR - 2018-12-20 15:55:52 --> Severity: Notice --> Undefined variable: people_id D:\www\WEB\bssmitlab\_apps\rekrutmen_app\controllers\account\cdashboard\sysaccount.php 60
+ERROR - 2018-12-20 15:55:52 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 12
+ERROR - 2018-12-20 15:55:52 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 15
+ERROR - 2018-12-20 15:55:52 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 18
+ERROR - 2018-12-20 15:55:52 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 21
+ERROR - 2018-12-20 15:55:52 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 21
+ERROR - 2018-12-20 15:55:52 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 21
+ERROR - 2018-12-20 15:55:52 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 21
+ERROR - 2018-12-20 15:55:52 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 25
+ERROR - 2018-12-20 15:55:52 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 28
+ERROR - 2018-12-20 15:55:53 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 31
+ERROR - 2018-12-20 15:55:53 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 34
+ERROR - 2018-12-20 15:55:53 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 34
+ERROR - 2018-12-20 15:55:53 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 34
+ERROR - 2018-12-20 15:55:53 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 34
+ERROR - 2018-12-20 15:55:53 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 134
+ERROR - 2018-12-20 15:55:53 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 135
+ERROR - 2018-12-20 15:57:37 --> Severity: Error --> Call to undefined function siteURL() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_2.php 133
+ERROR - 2018-12-20 07:58:04 --> 404 Page Not Found: Bssmitlab/_assets
+ERROR - 2018-12-20 07:58:04 --> 404 Page Not Found: Bssmitlab/_assets
+ERROR - 2018-12-20 08:04:58 --> 404 Page Not Found: account/cdashboard/Sysaccount/tab3
+ERROR - 2018-12-20 16:09:59 --> Severity: Notice --> Undefined variable: dedufor D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vdash.php 915
+ERROR - 2018-12-20 16:09:59 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vdash.php 915
+ERROR - 2018-12-20 16:09:59 --> Severity: Notice --> Undefined variable: dedufor D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vdash.php 922
+ERROR - 2018-12-20 16:09:59 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vdash.php 922
+ERROR - 2018-12-20 16:09:59 --> Severity: Notice --> Undefined variable: dedufor D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vdash.php 922
+ERROR - 2018-12-20 16:10:00 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vdash.php 922
+ERROR - 2018-12-20 16:10:00 --> Severity: Notice --> Undefined variable: dedufor D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vdash.php 936
+ERROR - 2018-12-20 16:10:00 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vdash.php 936
+ERROR - 2018-12-20 16:10:00 --> Severity: Notice --> Undefined variable: dedufor D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vdash.php 971
+ERROR - 2018-12-20 16:10:00 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vdash.php 971
+ERROR - 2018-12-20 16:10:00 --> Severity: Notice --> Undefined variable: dedufor D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vdash.php 977
+ERROR - 2018-12-20 16:10:00 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vdash.php 977
+ERROR - 2018-12-20 16:11:03 --> Severity: Notice --> Undefined variable: list_edu D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:11:03 --> Severity: Notice --> Undefined variable: major D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:11:03 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:11:48 --> Severity: Notice --> Undefined variable: list_edu D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:11:48 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:11:48 --> Severity: Notice --> Undefined variable: major D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:11:48 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:11:48 --> Severity: Error --> Call to undefined function siteURL() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 197
+ERROR - 2018-12-20 16:12:16 --> Severity: Notice --> Undefined variable: list_edu D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:12:16 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:12:16 --> Severity: Notice --> Undefined variable: major D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:12:16 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:13:54 --> Severity: Notice --> Undefined variable: list_edu D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:13:54 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:13:54 --> Severity: Notice --> Undefined variable: major D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:13:55 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:14:03 --> Severity: Notice --> Undefined variable: list_edu D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:14:03 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:14:03 --> Severity: Notice --> Undefined variable: major D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:14:03 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:14:07 --> Severity: Notice --> Undefined variable: list_edu D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:14:08 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:14:08 --> Severity: Notice --> Undefined variable: major D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:14:08 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:14:14 --> Severity: Notice --> Undefined variable: list_edu D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:14:14 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:14:14 --> Severity: Notice --> Undefined variable: major D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:14:14 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:14:18 --> Severity: Notice --> Undefined variable: list_edu D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:14:18 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:14:18 --> Severity: Notice --> Undefined variable: major D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:14:18 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:14:19 --> Severity: Notice --> Undefined variable: list_edu D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:14:19 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:14:19 --> Severity: Notice --> Undefined variable: major D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:14:19 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:14:21 --> Severity: Notice --> Undefined variable: list_edu D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:14:21 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:14:21 --> Severity: Notice --> Undefined variable: major D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:14:21 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:14:25 --> Severity: Notice --> Undefined variable: list_edu D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:14:25 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:14:25 --> Severity: Notice --> Undefined variable: major D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:14:25 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:15:23 --> Severity: Notice --> Undefined variable: list_edu D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:15:23 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:15:23 --> Severity: Notice --> Undefined variable: major D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:15:23 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:15:30 --> Severity: Notice --> Undefined variable: list_edu D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:15:30 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:15:30 --> Severity: Notice --> Undefined variable: major D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:15:30 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:15:36 --> Severity: Notice --> Undefined variable: list_edu D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:15:36 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 83
+ERROR - 2018-12-20 16:15:36 --> Severity: Notice --> Undefined variable: major D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120
+ERROR - 2018-12-20 16:15:36 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\account\dash\vtab_3.php 120

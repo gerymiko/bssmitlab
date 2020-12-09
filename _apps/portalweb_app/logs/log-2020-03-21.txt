@@ -1,0 +1,102 @@
+ERROR - 2020-03-21 09:38:50 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 09:38:50 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 09:38:50 --> Severity: Warning --> readfile(E:\/images/portal/logo_sm.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 09:39:16 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 09:39:16 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 09:39:16 --> Severity: Warning --> readfile(E:\/images/portal/logo_sm.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 09:47:43 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 09:47:43 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 09:47:43 --> Severity: Warning --> readfile(E:\/images/portal/logo_sm.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 09:49:02 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 09:49:02 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 09:49:02 --> Severity: Warning --> readfile(E:\/images/portal/logo_sm.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 09:49:12 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 09:49:12 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 09:49:12 --> Severity: Warning --> readfile(E:\/images/portal/logo_sm.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 09:49:17 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 09:49:17 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 09:49:17 --> Severity: Warning --> readfile(E:\/images/portal/logo_sm.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 09:49:27 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 09:49:27 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 09:49:27 --> Severity: Warning --> readfile(E:\/images/portal/logo_sm.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 09:49:57 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 09:49:57 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 09:49:57 --> Severity: Warning --> readfile(E:\/images/portal/logo_sm.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 09:50:18 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 09:50:18 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 09:50:18 --> Severity: Warning --> readfile(E:\/images/portal/logo_sm.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 09:52:39 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 09:52:39 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 09:52:39 --> Severity: Warning --> readfile(E:\/images/portal/logo_sm.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 09:54:21 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 09:54:21 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 09:54:21 --> Severity: Warning --> readfile(E:\/images/portal/logo_sm.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 09:54:26 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 09:54:26 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 09:54:26 --> Severity: Warning --> readfile(E:\/images/portal/logo_sm.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 09:54:29 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 09:54:29 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 09:54:29 --> Severity: Warning --> readfile(E:\/images/portal/logo_sm.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 09:54:43 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 09:54:43 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 09:54:43 --> Severity: Warning --> readfile(E:\/images/portal/logo_sm.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 09:54:51 --> Severity: Warning --> filesize(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 09:54:51 --> Severity: Warning --> filemtime(): stat failed for E:\/images/portal/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 09:54:51 --> Severity: Warning --> readfile(E:\/images/portal/logo_sm.png): failed to open stream: Permission denied D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:04:16 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:04:16 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:04:16 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:04:18 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:04:18 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:04:18 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:08:00 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:08:00 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:08:00 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:08:24 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:08:24 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:08:24 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:08:34 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:08:34 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:08:34 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:09:06 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:09:06 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:09:06 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:09:31 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:09:31 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:09:31 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:10:04 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:10:04 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:10:04 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:10:28 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:10:28 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:10:28 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:10:34 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:10:34 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:10:34 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:11:20 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:11:20 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:11:20 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:12:08 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:12:08 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:12:08 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:12:12 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:12:12 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:12:12 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:12:49 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:12:49 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:12:49 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:13:10 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:13:10 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:13:10 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:14:24 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:14:24 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:14:24 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:23:13 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:23:13 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:23:13 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:23:23 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:23:23 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:23:23 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41
+ERROR - 2020-03-21 10:23:37 --> Severity: Warning --> filesize(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 37
+ERROR - 2020-03-21 10:23:37 --> Severity: Warning --> filemtime(): stat failed for D:\/images/portalweb/logo_sm.png D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 38
+ERROR - 2020-03-21 10:23:37 --> Severity: Warning --> readfile(D:\/images/portalweb/logo_sm.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\portalweb_app\controllers\syslink.php 41

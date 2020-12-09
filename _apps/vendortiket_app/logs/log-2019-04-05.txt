@@ -1,0 +1,20 @@
+ERROR - 2019-04-05 16:21:29 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Invalid column name 'noticket'. - Invalid query: SELECT  TOP 10 "a"."nik", "a"."airline_code", "a"."flight_date", "a"."depart_time", "a"."arrival_time", "a"."flight_from", "a"."flight_to", "a"."price", "a"."sts", "a"."req_date", "a"."nodoc", "a"."req_update", "b"."airline_name", "a"."tipe", "d"."final_price", "d"."depart_time" as "jam_pergi", "d"."arrival_time" as "jam_tiba", "d"."desc", "d"."noticket", "d"."file", "d"."final_airline", "c"."Nama"
+FROM "TPengajuan_tiket" "a"
+INNER JOIN "master_airline" "b" ON "a"."airline_code" = "b"."airline_code"
+INNER JOIN "HRD"."dbo"."TKaryawan" "c" ON "a"."nik" = "c"."NIK"
+INNER JOIN "TOrdered_tiket" "d" ON "a"."nodoc" = "d"."nodoc"
+WHERE "b"."status" = 1
+AND "c"."AKTIF" =0
+AND "a"."sts" = 4
+ORDER BY "a"."req_date" DESC
+
+ERROR - 2019-04-05 16:21:31 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Invalid column name 'noticket'. - Invalid query: SELECT  TOP 10 "a"."nik", "a"."airline_code", "a"."flight_date", "a"."depart_time", "a"."arrival_time", "a"."flight_from", "a"."flight_to", "a"."price", "a"."sts", "a"."req_date", "a"."nodoc", "a"."req_update", "b"."airline_name", "a"."tipe", "d"."final_price", "d"."depart_time" as "jam_pergi", "d"."arrival_time" as "jam_tiba", "d"."desc", "d"."noticket", "d"."file", "d"."final_airline", "c"."Nama"
+FROM "TPengajuan_tiket" "a"
+INNER JOIN "master_airline" "b" ON "a"."airline_code" = "b"."airline_code"
+INNER JOIN "HRD"."dbo"."TKaryawan" "c" ON "a"."nik" = "c"."NIK"
+INNER JOIN "TOrdered_tiket" "d" ON "a"."nodoc" = "d"."nodoc"
+WHERE "b"."status" = 1
+AND "c"."AKTIF" =0
+AND "a"."sts" = 4
+ORDER BY "a"."req_date" DESC
+

@@ -1,0 +1,5 @@
+ERROR - 2020-03-16 11:01:09 --> Severity: Warning --> Invalid argument supplied for foreach() E:\www\WEB\bssmitlab\_apps\portalhrd_app\views\pages\precruit\manual\applicant\view.php 29
+ERROR - 2020-03-16 11:01:09 --> Severity: Warning --> Invalid argument supplied for foreach() E:\www\WEB\bssmitlab\_apps\portalhrd_app\views\pages\precruit\manual\applicant\view.php 41
+ERROR - 2020-03-16 11:14:22 --> Unable to connect to the database
+ERROR - 2020-03-16 14:53:40 --> Severity: Warning --> include(E:\www\WEB\bssmitlab\_apps\portalhrd_app\views\pages\plogin\vlogin.php): failed to open stream: Permission denied E:\www\WEB\bssmitlab\_system\core\Loader.php 968
+ERROR - 2020-03-16 14:53:40 --> Severity: Warning --> include(): Failed opening 'E:\www\WEB\bssmitlab\_apps\portalhrd_app\views\pages/plogin/vlogin.php' for inclusion (include_path='.;C:\php\pear') E:\www\WEB\bssmitlab\_system\core\Loader.php 968

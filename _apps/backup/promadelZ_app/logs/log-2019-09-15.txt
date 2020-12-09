@@ -1,0 +1,9 @@
+ERROR - 2019-09-15 01:28:16 --> Severity: Compile Error --> Cannot redeclare Sysaccount::strEncode() D:\www\WEB\bssmitlab\_apps\promadel_app\controllers\account\caccount\sysaccount.php 33
+ERROR - 2019-09-15 01:28:16 --> Severity: Compile Error --> Cannot redeclare Sysaccount::strEncode() D:\www\WEB\bssmitlab\_apps\promadel_app\controllers\account\caccount\sysaccount.php 33
+ERROR - 2019-09-15 09:30:26 --> Severity: Notice --> Undefined variable: query D:\www\WEB\bssmitlab\_apps\promadel_app\controllers\account\caccount\sysaccount.php 88
+ERROR - 2019-09-15 09:38:08 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\promadel_app\controllers\account\caccount\sysaccount.php 82
+ERROR - 2019-09-15 09:38:28 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\promadel_app\controllers\account\caccount\sysaccount.php 82
+ERROR - 2019-09-15 09:41:48 --> Severity: Notice --> Undefined variable: password D:\www\WEB\bssmitlab\_apps\promadel_app\controllers\account\caccount\sysaccount.php 82
+ERROR - 2019-09-15 09:41:48 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\promadel_app\controllers\account\caccount\sysaccount.php 83
+ERROR - 2019-09-15 09:41:48 --> Severity: Notice --> Undefined variable: password D:\www\WEB\bssmitlab\_apps\promadel_app\controllers\account\caccount\sysaccount.php 83
+ERROR - 2019-09-15 09:42:35 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\promadel_app\controllers\account\caccount\sysaccount.php 83

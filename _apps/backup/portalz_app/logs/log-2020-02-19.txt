@@ -1,0 +1,1 @@
+ERROR - 2020-02-19 17:02:03 --> Severity: Error --> Call to undefined method Syscondition::pregRepn() D:\www\WEB\bssmitlab\_apps\portalz_app\controllers\cmaster\syscondition.php 32

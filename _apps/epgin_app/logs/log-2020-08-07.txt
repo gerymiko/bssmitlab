@@ -1,0 +1,11 @@
+ERROR - 2020-08-07 03:55:34 --> Severity: Parsing Error --> syntax error, unexpected ''status_active'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' D:\www\WEB\bssmitlab\_apps\epgin_app\controllers\mst\ctod\systod.php 161
+ERROR - 2020-08-07 12:06:15 --> Severity: Parsing Error --> syntax error, unexpected 'return' (T_RETURN) D:\www\WEB\bssmitlab\_apps\epgin_app\models\mst\mtod\mod_tod.php 152
+ERROR - 2020-08-07 05:10:05 --> Severity: Parsing Error --> syntax error, unexpected '$route' (T_VARIABLE) D:\www\WEB\bssmitlab\_apps\epgin_app\config\routes.php 68
+ERROR - 2020-08-07 13:10:20 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Ambiguous column name 'id'. - Invalid query: SELECT "id", "isi"
+FROM "mst_produksi_parameter_sub_dictionary" "a"
+INNER JOIN "mst_tod_foreman" "b" ON "a"."id_mst_tod_foreman" = "b"."id" AND "b"."status_active" = 1
+INNER JOIN "mst_produksi_parameter_sub" "c" ON "b"."id_parameter_sub" = "c"."id" AND "c"."status_active" = 1
+INNER JOIN "mst_produksi_parameter_hdr" "d" ON "c"."id_produksi_parameter_hdr" = "d"."id" AND "d"."status_active" = 1
+WHERE "d"."site" = 'AGM'
+AND "a"."status_active" = 1
+ERROR - 2020-08-07 13:10:20 --> Severity: Error --> Call to a member function result() on boolean D:\www\WEB\bssmitlab\_apps\epgin_app\models\mst\mtod\mod_tod.php 214

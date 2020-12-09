@@ -1,0 +1,78 @@
+ERROR - 2020-03-05 10:28:42 --> Severity: Notice --> Undefined variable: stpass D:\www\WEB\bssmitlab\_apps\mosento_app\views\pages\psite\vchoose_site.php 134
+ERROR - 2020-03-05 10:28:42 --> Severity: Warning --> filesize(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 73
+ERROR - 2020-03-05 10:28:42 --> Severity: Warning --> filemtime(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 74
+ERROR - 2020-03-05 10:28:42 --> Severity: Warning --> readfile(D:\/images/karir/upload/default//160.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 77
+ERROR - 2020-03-05 10:28:44 --> Severity: Warning --> filesize(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 73
+ERROR - 2020-03-05 10:28:44 --> Severity: Warning --> filemtime(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 74
+ERROR - 2020-03-05 10:28:44 --> Severity: Warning --> readfile(D:\/images/karir/upload/default//160.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 77
+ERROR - 2020-03-05 10:33:47 --> Severity: Warning --> filesize(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 73
+ERROR - 2020-03-05 10:33:47 --> Severity: Warning --> filemtime(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 74
+ERROR - 2020-03-05 10:33:47 --> Severity: Warning --> readfile(D:\/images/karir/upload/default//160.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 77
+ERROR - 2020-03-05 10:33:49 --> Severity: Warning --> filesize(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 73
+ERROR - 2020-03-05 10:33:49 --> Severity: Warning --> filemtime(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 74
+ERROR - 2020-03-05 10:33:49 --> Severity: Warning --> readfile(D:\/images/karir/upload/default//160.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 77
+ERROR - 2020-03-05 10:34:43 --> Severity: Warning --> filesize(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 73
+ERROR - 2020-03-05 10:34:43 --> Severity: Warning --> filemtime(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 74
+ERROR - 2020-03-05 10:34:43 --> Severity: Warning --> readfile(D:\/images/karir/upload/default//160.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 77
+ERROR - 2020-03-05 10:37:27 --> Severity: Warning --> filesize(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 73
+ERROR - 2020-03-05 10:37:27 --> Severity: Warning --> filemtime(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 74
+ERROR - 2020-03-05 10:37:27 --> Severity: Warning --> readfile(D:\/images/karir/upload/default//160.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 77
+ERROR - 2020-03-05 02:37:31 --> Severity: Parsing Error --> syntax error, unexpected '}' D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 35
+ERROR - 2020-03-05 10:38:12 --> Severity: error --> Exception: Unable to locate the model you have specified: Mod_new D:\www\WEB\bssmitlab\_system\core\Loader.php 348
+ERROR - 2020-03-05 10:43:01 --> Severity: Notice --> Undefined variable: header D:\www\WEB\bssmitlab\_apps\mosento_app\views\pages\pnew\vnew.php 30
+ERROR - 2020-03-05 11:24:12 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Column "DowntimeInternet.Tanggal" is invalid in the ORDER BY clause because it is not contained in either an aggregate function or the GROUP BY clause. - Invalid query: SELECT YEAR(a.Tanggal) tahun
+FROM "DowntimeInternet" "a"
+JOIN "Kontrak" "b" ON "a"."KodeVendor" = "b"."no_kontrak"
+WHERE "b"."status" = 'aktif'
+GROUP BY YEAR(a.Tanggal)
+ORDER BY "a"."Tanggal" ASC
+ERROR - 2020-03-05 11:24:12 --> Severity: Error --> Call to a member function result() on boolean D:\www\WEB\bssmitlab\_apps\mosento_app\models\mnew\mod_new.php 39
+ERROR - 2020-03-05 11:30:02 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Column "DowntimeInternet.Tanggal" is invalid in the ORDER BY clause because it is not contained in either an aggregate function or the GROUP BY clause. - Invalid query: SELECT YEAR(a.Tanggal) tahun
+FROM "DowntimeInternet" "a"
+JOIN "Kontrak" "b" ON "a"."KodeVendor" = "b"."no_kontrak"
+WHERE "b"."status" = 'aktif'
+GROUP BY YEAR(a.Tanggal)
+ORDER BY "a"."Tanggal" ASC
+ERROR - 2020-03-05 11:30:02 --> Severity: Error --> Call to a member function result() on boolean D:\www\WEB\bssmitlab\_apps\mosento_app\models\mnew\mod_new.php 39
+ERROR - 2020-03-05 11:30:46 --> Severity: Error --> Cannot use object of type stdClass as array D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:31:05 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 66
+ERROR - 2020-03-05 11:33:10 --> Severity: Error --> Call to undefined method CI_DB_sqlsrv_driver::row() D:\www\WEB\bssmitlab\_apps\mosento_app\models\mnew\mod_new.php 15
+ERROR - 2020-03-05 13:17:07 --> Severity: Error --> Call to undefined method Mod_new::downtime() D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 38
+ERROR - 2020-03-05 13:17:13 --> Severity: Error --> Call to undefined method Mod_new::downtime() D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\cnew\sysnew.php 38

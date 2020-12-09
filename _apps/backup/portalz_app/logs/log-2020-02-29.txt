@@ -1,0 +1,18 @@
+ERROR - 2020-02-29 09:36:22 --> Severity: Notice --> Undefined variable: listpic D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 45
+ERROR - 2020-02-29 09:36:22 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 45
+ERROR - 2020-02-29 09:37:08 --> Severity: Notice --> Undefined variable: listpic D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 45
+ERROR - 2020-02-29 09:37:08 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 45
+ERROR - 2020-02-29 09:38:03 --> Severity: Notice --> Undefined variable: listpic D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 45
+ERROR - 2020-02-29 09:38:03 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 45
+ERROR - 2020-02-29 09:38:26 --> Severity: Notice --> Undefined variable: listpic D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 45
+ERROR - 2020-02-29 09:38:27 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 45
+ERROR - 2020-02-29 09:41:43 --> Severity: Notice --> Undefined variable: listpic D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 45
+ERROR - 2020-02-29 09:41:43 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 45
+ERROR - 2020-02-29 14:19:23 --> Severity: Notice --> Undefined variable: listpic D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 45
+ERROR - 2020-02-29 14:19:23 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 45
+ERROR - 2020-02-29 14:19:38 --> Severity: Notice --> Undefined variable: listpic D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 45
+ERROR - 2020-02-29 14:19:38 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 45
+ERROR - 2020-02-29 14:19:56 --> Severity: Notice --> Undefined variable: listpic D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 44
+ERROR - 2020-02-29 14:19:56 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 44
+ERROR - 2020-02-29 14:33:06 --> Severity: Notice --> Undefined variable: listpic D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 44
+ERROR - 2020-02-29 14:33:06 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 44

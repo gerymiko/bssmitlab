@@ -1,0 +1,24 @@
+ERROR - 2020-03-14 10:29:08 --> Query error: [Microsoft][SQL Server Native Client 10.0][SQL Server]Conversion failed when converting the varchar value 'a.users_id is null' to data type int. - Invalid query: SELECT *
+FROM "WEB_1"."dbo"."users" "a"
+LEFT JOIN "mpic" "b" ON "a"."users_id" = "b"."user_id"
+WHERE "a"."users_status" = 1
+AND 0 = 'a.users_id is null'
+ORDER BY "a"."users_fullname" ASC
+ERROR - 2020-03-14 10:29:08 --> Severity: Error --> Call to a member function result() on boolean E:\www\WEB\bssmitlab\_apps\portalhrd_app\models\mmaster\mod_pic.php 76
+ERROR - 2020-03-14 10:29:09 --> Query error: [Microsoft][SQL Server Native Client 10.0][SQL Server]Conversion failed when converting the varchar value 'a.users_id is null' to data type int. - Invalid query: SELECT *
+FROM "WEB_1"."dbo"."users" "a"
+LEFT JOIN "mpic" "b" ON "a"."users_id" = "b"."user_id"
+WHERE "a"."users_status" = 1
+AND 0 = 'a.users_id is null'
+ORDER BY "a"."users_fullname" ASC
+ERROR - 2020-03-14 10:29:14 --> Query error: [Microsoft][SQL Server Native Client 10.0][SQL Server]Conversion failed when converting the varchar value 'a.users_id is null' to data type int. - Invalid query: SELECT *
+FROM "WEB_1"."dbo"."users" "a"
+LEFT JOIN "mpic" "b" ON "a"."users_id" = "b"."user_id"
+WHERE "a"."users_status" = 1
+AND 0 = 'a.users_id is null'
+ORDER BY "a"."users_fullname" ASC
+ERROR - 2020-03-14 10:29:14 --> Severity: Error --> Call to a member function result() on boolean E:\www\WEB\bssmitlab\_apps\portalhrd_app\models\mmaster\mod_pic.php 76
+ERROR - 2020-03-14 17:00:56 --> Query error: [Microsoft][SQL Server Native Client 10.0][SQL Server]Invalid object name 'web_logs'. - Invalid query: INSERT INTO "web_logs" ("logs_tanggal", "logs_ip", "logs_modul", "logs_aktifitas", "logs_keterangan", "logs_user_id", "logs_username", "logs_user_name", "logs_website") VALUES ('2020-03-14 17:00:56', '36.92.10.35', 'Pelamar Formulir', 'Tambah Data', 'Melakukan penambahan data pelamar ID : 1087 form (Tambah Pelamar)', 551, 'salmondwi', 'Salmon Dwi Arisandi', 'PORTAL')
+ERROR - 2020-03-14 17:00:56 --> Severity: Warning --> sqlsrv_rows_affected() expects parameter 1 to be resource, boolean given E:\www\WEB\bssmitlab\_system\database\drivers\sqlsrv\sqlsrv_driver.php 241
+ERROR - 2020-03-14 17:39:04 --> Query error: [Microsoft][SQL Server Native Client 10.0][SQL Server]Invalid object name 'web_logs'. - Invalid query: INSERT INTO "web_logs" ("logs_tanggal", "logs_ip", "logs_modul", "logs_aktifitas", "logs_keterangan", "logs_user_id", "logs_username", "logs_user_name", "logs_website") VALUES ('2020-03-14 17:39:04', '36.92.10.35', 'Pelamar Formulir', 'Tambah Data', 'Melakukan penambahan data pelamar ID : 1088 form (Tambah Pelamar)', 551, 'salmondwi', 'Salmon Dwi Arisandi', 'PORTAL')
+ERROR - 2020-03-14 17:39:04 --> Severity: Warning --> sqlsrv_rows_affected() expects parameter 1 to be resource, boolean given E:\www\WEB\bssmitlab\_system\database\drivers\sqlsrv\sqlsrv_driver.php 241

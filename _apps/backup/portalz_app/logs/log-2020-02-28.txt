@@ -1,0 +1,54 @@
+ERROR - 2020-02-28 10:17:56 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Invalid column name 'users_id'. - Invalid query: SELECT  TOP 10 "a"."pic_name", "b"."bssID", "d"."Nama" as "jabatan", "a"."pic_status"
+FROM "mpic" "a"
+INNER JOIN "WEB_1"."dbo"."users" "b" ON "a"."users_id" = "b"."users_id"
+INNER JOIN "HRD"."dbo"."TKaryawan" "c" ON "b"."bssID" = "c"."NIK" AND "c"."AKTIF" = 0
+INNER JOIN "HRD"."dbo"."tjabatan" "d" ON "c"."KodeJB" = "d"."KodeJB"
+INNER JOIN "bridge_pic_rstep" "e" ON "a"."pic_id" = "e"."pic_id"
+INNER JOIN "recruitment_step" "f" ON "e"."rs_id" = "f"."rs_id"
+GROUP BY "a"."pic_name", "b"."bssID", "d"."Nama", "a"."pic_status"
+ORDER BY "a"."pic_name" ASC
+
+ERROR - 2020-02-28 10:17:56 --> Severity: Error --> Call to a member function result() on boolean D:\www\WEB\bssmitlab\_apps\portalz_app\models\mmaster\mod_pic.php 56
+ERROR - 2020-02-28 10:20:10 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Invalid column name 'users_id'. - Invalid query: SELECT  TOP 10 "a"."pic_name", "b"."bssID", "d"."Nama" as "jabatan", "a"."pic_status"
+FROM "mpic" "a"
+INNER JOIN "WEB_1"."dbo"."users" "b" ON "a"."users_id" = "b"."users_id"
+INNER JOIN "HRD"."dbo"."TKaryawan" "c" ON "b"."bssID" = "c"."NIK" AND "c"."AKTIF" = 0
+INNER JOIN "HRD"."dbo"."tjabatan" "d" ON "c"."KodeJB" = "d"."KodeJB"
+INNER JOIN "bridge_pic_rstep" "e" ON "a"."pic_id" = "e"."pic_id"
+INNER JOIN "recruitment_step" "f" ON "e"."rs_id" = "f"."rs_id"
+GROUP BY "a"."pic_name", "b"."bssID", "d"."Nama", "a"."pic_status"
+ORDER BY "a"."pic_name" ASC
+
+ERROR - 2020-02-28 10:20:10 --> Severity: Error --> Call to a member function result() on boolean D:\www\WEB\bssmitlab\_apps\portalz_app\models\mmaster\mod_pic.php 56
+ERROR - 2020-02-28 10:28:49 --> Severity: Notice --> Undefined variable: jabatan D:\www\WEB\bssmitlab\_apps\portalz_app\controllers\cmaster\syspic.php 51
+ERROR - 2020-02-28 10:28:49 --> Severity: Notice --> Undefined property: stdClass::$pic_id D:\www\WEB\bssmitlab\_apps\portalz_app\controllers\cmaster\syspic.php 54
+ERROR - 2020-02-28 10:28:49 --> Severity: Notice --> Undefined property: stdClass::$pic_id D:\www\WEB\bssmitlab\_apps\portalz_app\controllers\cmaster\syspic.php 57
+ERROR - 2020-02-28 10:29:10 --> Severity: Notice --> Undefined property: stdClass::$pic_id D:\www\WEB\bssmitlab\_apps\portalz_app\controllers\cmaster\syspic.php 54
+ERROR - 2020-02-28 10:29:10 --> Severity: Notice --> Undefined property: stdClass::$pic_id D:\www\WEB\bssmitlab\_apps\portalz_app\controllers\cmaster\syspic.php 57
+ERROR - 2020-02-28 11:00:57 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]The multi-part identifier "d.Nama" could not be bound. - Invalid query: SELECT  TOP 10 "a"."pic_id", "a"."pic_name", "b"."bssID", "d"."Nama" as "jabatan", "a"."pic_status"
+FROM "mpic" "a"
+LEFT JOIN "WEB_1"."dbo"."users" "b" ON "a"."user_id" = "b"."users_id"
+INNER JOIN "bridge_pic_rstep" "e" ON "a"."pic_id" = "e"."pic_id"
+INNER JOIN "recruitment_step" "f" ON "e"."rs_id" = "f"."rs_id"
+GROUP BY "a"."pic_id", "a"."pic_name", "b"."bssID", "d"."Nama", "a"."pic_status"
+ORDER BY "a"."pic_name" ASC
+
+ERROR - 2020-02-28 11:00:57 --> Severity: Error --> Call to a member function result() on boolean D:\www\WEB\bssmitlab\_apps\portalz_app\models\mmaster\mod_pic.php 54
+ERROR - 2020-02-28 11:03:21 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]The multi-part identifier "d.Nama" could not be bound. - Invalid query: SELECT  TOP 10 "a"."pic_id", "a"."pic_name", "b"."bssID", "d"."Nama" as "jabatan", "a"."pic_status"
+FROM "mpic" "a"
+LEFT JOIN "WEB_1"."dbo"."users" "b" ON "a"."user_id" = "b"."users_id"
+INNER JOIN "bridge_pic_rstep" "e" ON "a"."pic_id" = "e"."pic_id"
+INNER JOIN "recruitment_step" "f" ON "e"."rs_id" = "f"."rs_id"
+GROUP BY "a"."pic_id", "a"."pic_name", "b"."bssID", "d"."Nama", "a"."pic_status"
+ORDER BY "a"."pic_name" ASC
+
+ERROR - 2020-02-28 11:03:21 --> Severity: Error --> Call to a member function result() on boolean D:\www\WEB\bssmitlab\_apps\portalz_app\models\mmaster\mod_pic.php 54
+ERROR - 2020-02-28 11:05:40 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]The multi-part identifier "d.Nama" could not be bound. - Invalid query: SELECT  TOP 10 "a"."pic_id", "a"."pic_name", "b"."bssID", "a"."pic_status"
+FROM "mpic" "a"
+LEFT JOIN "WEB_1"."dbo"."users" "b" ON "a"."user_id" = "b"."users_id"
+INNER JOIN "bridge_pic_rstep" "e" ON "a"."pic_id" = "e"."pic_id"
+INNER JOIN "recruitment_step" "f" ON "e"."rs_id" = "f"."rs_id"
+GROUP BY "a"."pic_id", "a"."pic_name", "b"."bssID", "d"."Nama", "a"."pic_status"
+ORDER BY "a"."pic_name" ASC
+
+ERROR - 2020-02-28 11:05:40 --> Severity: Error --> Call to a member function result() on boolean D:\www\WEB\bssmitlab\_apps\portalz_app\models\mmaster\mod_pic.php 54

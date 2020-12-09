@@ -1,0 +1,23 @@
+ERROR - 2019-01-06 14:13:44 --> Severity: Notice --> Undefined index: city E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 282
+ERROR - 2019-01-06 14:13:44 --> Severity: Notice --> Undefined index: country E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 283
+ERROR - 2019-01-06 14:13:44 --> Severity: Notice --> Undefined index: timezone E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 284
+ERROR - 2019-01-06 14:15:11 --> Severity: Notice --> Undefined index: city E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vemail_temp.php 266
+ERROR - 2019-01-06 14:15:11 --> Severity: Notice --> Undefined index: country E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vemail_temp.php 267
+ERROR - 2019-01-06 14:15:11 --> Severity: Notice --> Undefined index: timezone E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vemail_temp.php 268
+ERROR - 2019-01-06 21:32:10 --> Severity: Notice --> Undefined index: city E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 282
+ERROR - 2019-01-06 21:32:10 --> Severity: Notice --> Undefined index: country E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 283
+ERROR - 2019-01-06 21:32:10 --> Severity: Notice --> Undefined index: timezone E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 284
+ERROR - 2019-01-06 21:32:13 --> Severity: Notice --> Undefined index: city E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 282
+ERROR - 2019-01-06 21:32:13 --> Severity: Notice --> Undefined index: country E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 283
+ERROR - 2019-01-06 21:32:13 --> Severity: Notice --> Undefined index: timezone E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 284
+ERROR - 2019-01-06 21:40:29 --> Severity: Notice --> Undefined index: city E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 282
+ERROR - 2019-01-06 21:40:29 --> Severity: Notice --> Undefined index: country E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 283
+ERROR - 2019-01-06 21:40:29 --> Severity: Notice --> Undefined index: timezone E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 284
+ERROR - 2019-01-06 21:40:35 --> Severity: Notice --> Undefined index: city E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 282
+ERROR - 2019-01-06 21:40:35 --> Severity: Notice --> Undefined index: country E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 283
+ERROR - 2019-01-06 21:40:35 --> Severity: Notice --> Undefined index: timezone E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 284
+ERROR - 2019-01-06 21:41:54 --> Severity: Notice --> Undefined index: type E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\pforgot\vforgot.php 34
+ERROR - 2019-01-06 22:30:56 --> Severity: Notice --> Undefined index: city E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 282
+ERROR - 2019-01-06 22:30:56 --> Severity: Notice --> Undefined index: country E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 283
+ERROR - 2019-01-06 22:30:56 --> Severity: Notice --> Undefined index: timezone E:\www\WEB\bssmitlab\_apps\rekrutmen_app\views\pages\ptemp\vforgotemail_temp.php 284
+ERROR - 2019-01-06 22:36:38 --> Severity: Notice --> Trying to get property of non-object E:\www\WEB\bssmitlab\_apps\rekrutmen_app\controllers\account\cdashboard\syseducation.php 191

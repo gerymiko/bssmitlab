@@ -1,0 +1,10 @@
+ERROR - 2019-04-13 10:00:30 --> The temporary folder is missing.
+ERROR - 2019-04-13 10:00:44 --> The temporary folder is missing.
+ERROR - 2019-04-13 10:00:54 --> The temporary folder is missing.
+ERROR - 2019-04-13 10:00:54 --> The temporary folder is missing.
+ERROR - 2019-04-13 10:01:03 --> The temporary folder is missing.
+ERROR - 2019-04-13 10:01:58 --> The temporary folder is missing.
+ERROR - 2019-04-13 10:02:13 --> The temporary folder is missing.
+ERROR - 2019-04-13 10:03:11 --> The temporary folder is missing.
+ERROR - 2019-04-13 10:03:14 --> The temporary folder is missing.
+ERROR - 2019-04-13 10:03:58 --> The temporary folder is missing.

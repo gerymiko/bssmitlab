@@ -1,0 +1,94 @@
+ERROR - 2020-01-11 10:12:30 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Column 'twarning.ket' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause. - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM (
+SELECT "a"."tgl", "a"."ket"
+FROM "twarning" "a"
+INNER JOIN "trend" "b" ON "a"."unit" = "b"."unit"
+WHERE "a"."ket" LIKE '%caution%' ESCAPE '!'
+AND CONVERT(VARCHAR(7), a.tgl, 126) = '2020-01'
+AND "b"."servername" = 'MOSENTO-AGM'
+GROUP BY "a"."tgl"
+) CI_count_all_results
+ERROR - 2020-01-11 10:12:30 --> Severity: Error --> Call to a member function num_rows() on boolean D:\www\WEB\bssmitlab\_system\database\DB_query_builder.php 1424
+ERROR - 2020-01-11 10:12:40 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Column 'twarning.ket' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause. - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM (
+SELECT "a"."tgl", "a"."ket"
+FROM "twarning" "a"
+INNER JOIN "trend" "b" ON "a"."unit" = "b"."unit"
+WHERE "a"."ket" LIKE '%caution%' ESCAPE '!'
+AND CONVERT(VARCHAR(7), a.tgl, 126) = '2020-01'
+AND "b"."servername" = 'MOSENTO-AGM'
+GROUP BY "a"."tgl"
+) CI_count_all_results
+ERROR - 2020-01-11 10:12:40 --> Severity: Error --> Call to a member function num_rows() on boolean D:\www\WEB\bssmitlab\_system\database\DB_query_builder.php 1424
+ERROR - 2020-01-11 10:13:23 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Column 'twarning.ket' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause. - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM (
+SELECT "a"."tgl", "a"."ket"
+FROM "twarning" "a"
+INNER JOIN "trend" "b" ON "a"."unit" = "b"."unit"
+WHERE "a"."ket" LIKE '%caution%' ESCAPE '!'
+AND CONVERT(VARCHAR(7), a.tgl, 126) = '2020-01'
+AND "b"."servername" = 'MOSENTO-AGM'
+GROUP BY "a"."tgl"
+) CI_count_all_results
+ERROR - 2020-01-11 10:13:23 --> Severity: Error --> Call to a member function num_rows() on boolean D:\www\WEB\bssmitlab\_system\database\DB_query_builder.php 1424
+ERROR - 2020-01-11 10:19:58 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Column 'twarning.ket' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause. - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM (
+SELECT "a"."tgl", "a"."ket"
+FROM "twarning" "a"
+INNER JOIN "trend" "b" ON "a"."unit" = "b"."unit"
+WHERE "a"."ket" LIKE '%caution%' ESCAPE '!'
+AND CONVERT(VARCHAR(7), a.tgl, 126) = '2020-01'
+AND "b"."servername" = 'MOSENTO-AGM'
+GROUP BY "a"."tgl"
+) CI_count_all_results
+ERROR - 2020-01-11 10:19:58 --> Severity: Error --> Call to a member function num_rows() on boolean D:\www\WEB\bssmitlab\_system\database\DB_query_builder.php 1424
+ERROR - 2020-01-11 10:46:56 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Invalid column name 'dalam'. - Invalid query: SELECT "a"."tgl", "a"."unit", LEFT(ket, CHARINDEX("dalam", ket) - 1) AS alert, "a"."value"
+FROM "twarning" "a"
+INNER JOIN "trend" "b" ON "a"."unit" = "b"."unit"
+WHERE "a"."ket" LIKE '%caution%' ESCAPE '!'
+AND CONVERT(VARCHAR(7), a.tgl, 126) = '2020-01'
+AND "b"."servername" = 'MOSENTO-AGM'
+GROUP BY "a"."tgl", "a"."unit", "a"."ket", "a"."value"
+ERROR - 2020-01-11 10:46:56 --> Severity: Error --> Call to a member function result() on boolean D:\www\WEB\bssmitlab\_apps\mosento_app\models\msummary\mod_summary.php 27
+ERROR - 2020-01-11 10:47:15 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Invalid column name 'dalam'. - Invalid query: SELECT "a"."tgl", "a"."unit", LEFT(a.ket, CHARINDEX("dalam", a.ket) - 1) AS alert, "a"."value"
+FROM "twarning" "a"
+INNER JOIN "trend" "b" ON "a"."unit" = "b"."unit"
+WHERE "a"."ket" LIKE '%caution%' ESCAPE '!'
+AND CONVERT(VARCHAR(7), a.tgl, 126) = '2020-01'
+AND "b"."servername" = 'MOSENTO-AGM'
+GROUP BY "a"."tgl", "a"."unit", "a"."ket", "a"."value"
+ERROR - 2020-01-11 10:47:15 --> Severity: Error --> Call to a member function result() on boolean D:\www\WEB\bssmitlab\_apps\mosento_app\models\msummary\mod_summary.php 27
+ERROR - 2020-01-11 10:47:16 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Invalid column name 'dalam'. - Invalid query: SELECT "a"."tgl", "a"."unit", LEFT(a.ket, CHARINDEX("dalam", a.ket) - 1) AS alert, "a"."value"
+FROM "twarning" "a"
+INNER JOIN "trend" "b" ON "a"."unit" = "b"."unit"
+WHERE "a"."ket" LIKE '%caution%' ESCAPE '!'
+AND CONVERT(VARCHAR(7), a.tgl, 126) = '2020-01'
+AND "b"."servername" = 'MOSENTO-AGM'
+GROUP BY "a"."tgl", "a"."unit", "a"."ket", "a"."value"
+ERROR - 2020-01-11 10:47:16 --> Severity: Error --> Call to a member function result() on boolean D:\www\WEB\bssmitlab\_apps\mosento_app\models\msummary\mod_summary.php 27
+ERROR - 2020-01-11 10:47:23 --> Severity: Parsing Error --> syntax error, unexpected 'dalam' (T_STRING) D:\www\WEB\bssmitlab\_apps\mosento_app\models\msummary\mod_summary.php 20
+ERROR - 2020-01-11 10:47:24 --> Severity: Parsing Error --> syntax error, unexpected 'dalam' (T_STRING) D:\www\WEB\bssmitlab\_apps\mosento_app\models\msummary\mod_summary.php 20
+ERROR - 2020-01-11 10:53:44 --> Severity: Notice --> Undefined variable: output D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\csummary\sysummary.php 98
+ERROR - 2020-01-11 12:40:01 --> Severity: Notice --> Undefined variable: detail_hd D:\www\WEB\bssmitlab\_apps\mosento_app\views\pages\psummary\vsummary.php 40
+ERROR - 2020-01-11 12:40:01 --> Severity: Notice --> Trying to get property of non-object D:\www\WEB\bssmitlab\_apps\mosento_app\views\pages\psummary\vsummary.php 40
+ERROR - 2020-01-11 12:49:09 --> Severity: Notice --> Undefined variable: datax D:\www\WEB\bssmitlab\_apps\mosento_app\models\msummary\mod_summary.php 43
+ERROR - 2020-01-11 12:49:09 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Incorrect syntax near the keyword 'IS'. - Invalid query: SELECT  TOP 10 "a"."tgl", "a"."unit", LEFT(a.ket, CHARINDEX('dalam', a.ket) - 1) AS alert, "a"."value"
+FROM "twarning" "a"
+INNER JOIN "trend" "b" ON "a"."unit" = "b"."unit"
+WHERE "a"."ket" LIKE '%caution%' ESCAPE '!'
+AND  IS NULL
+GROUP BY "a"."tgl", "a"."unit", "a"."ket", "a"."value"
+ORDER BY CONVERT(VARCHAR ASC, "a"."tgl" ASC, 8) ASC
+
+ERROR - 2020-01-11 12:49:09 --> Severity: Error --> Call to a member function result() on boolean D:\www\WEB\bssmitlab\_apps\mosento_app\models\msummary\mod_summary.php 70
+ERROR - 2020-01-11 12:49:27 --> Query error: [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Incorrect syntax near the keyword 'ASC'. - Invalid query: SELECT  TOP 10 "a"."tgl", "a"."unit", LEFT(a.ket, CHARINDEX('dalam', a.ket) - 1) AS alert, "a"."value"
+FROM "twarning" "a"
+INNER JOIN "trend" "b" ON "a"."unit" = "b"."unit"
+WHERE "a"."ket" LIKE '%caution%' ESCAPE '!'
+AND CONVERT(VARCHAR(7), a.tgl, 126) = '2020-01'
+AND "b"."servername" = 'MOSENTO-AGM'
+GROUP BY "a"."tgl", "a"."unit", "a"."ket", "a"."value"
+ORDER BY CONVERT(VARCHAR ASC, "a"."tgl" ASC, 8) ASC
+
+ERROR - 2020-01-11 12:49:27 --> Severity: Error --> Call to a member function result() on boolean D:\www\WEB\bssmitlab\_apps\mosento_app\models\msummary\mod_summary.php 70
+ERROR - 2020-01-11 14:31:17 --> Severity: Notice --> Undefined variable: week D:\www\WEB\bssmitlab\_apps\mosento_app\views\pages\psummary\vsummary.php 46

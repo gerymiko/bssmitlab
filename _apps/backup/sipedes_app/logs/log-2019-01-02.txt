@@ -1,0 +1,241 @@
+ERROR - 2019-01-02 10:15:46 --> Severity: Warning --> pg_query(): Query failed: ERROR:  relation &quot;web_service_sessions&quot; does not exist
+LINE 2: FROM &quot;web_service_sessions&quot;
+             ^ D:\www\WEB\bssmitlab\_system\database\drivers\postgre\postgre_driver.php 242
+ERROR - 2019-01-02 10:15:46 --> Query error: ERROR:  relation "web_service_sessions" does not exist
+LINE 2: FROM "web_service_sessions"
+             ^ - Invalid query: SELECT "data"
+FROM "web_service_sessions"
+WHERE "id" = '0b9rfc8b5isgol65qrljtmovdvrntal7'
+ERROR - 2019-01-02 10:19:23 --> Severity: Warning --> pg_query(): Query failed: ERROR:  invalid input syntax for integer: &quot;por8h23j3mec6k8qm8ioe76110q9rk87&quot;
+LINE 3: WHERE &quot;id&quot; = 'por8h23j3mec6k8qm8ioe76110q9rk87'
+                     ^ D:\www\WEB\bssmitlab\_system\database\drivers\postgre\postgre_driver.php 242
+ERROR - 2019-01-02 10:19:23 --> Query error: ERROR:  invalid input syntax for integer: "por8h23j3mec6k8qm8ioe76110q9rk87"
+LINE 3: WHERE "id" = 'por8h23j3mec6k8qm8ioe76110q9rk87'
+                     ^ - Invalid query: SELECT "data"
+FROM "web_service_sessions"
+WHERE "id" = 'por8h23j3mec6k8qm8ioe76110q9rk87'
+ERROR - 2019-01-02 10:21:23 --> Severity: Warning --> include(D:\www\WEB\bssmitlab\_apps\sipedes_app\views\pages\ext\exhead.php): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\sipedes_app\views\errors\html\error_general.php 44
+ERROR - 2019-01-02 10:21:23 --> Severity: Warning --> include(): Failed opening 'D:\www\WEB\bssmitlab\_apps\sipedes_app\views\pages\ext\exhead.php' for inclusion (include_path='.;C:\php\pear') D:\www\WEB\bssmitlab\_apps\sipedes_app\views\errors\html\error_general.php 44
+ERROR - 2019-01-02 10:21:23 --> Severity: Warning --> include(D:\www\WEB\bssmitlab\_apps\sipedes_app\views\pages\ext\exfoot.php): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\sipedes_app\views\errors\html\error_general.php 79
+ERROR - 2019-01-02 10:21:23 --> Severity: Warning --> include(): Failed opening 'D:\www\WEB\bssmitlab\_apps\sipedes_app\views\pages\ext\exfoot.php' for inclusion (include_path='.;C:\php\pear') D:\www\WEB\bssmitlab\_apps\sipedes_app\views\errors\html\error_general.php 79
+ERROR - 2019-01-02 10:21:23 --> Severity: Warning --> pg_query(): Query failed: ERROR:  column &quot;timestamp&quot; is of type timestamp without time zone but expression is of type integer
+LINE 1: ...('da4lg892mv8rmkasm2r23dd2rbpk5d45', '127.0.0.1', 1546395683...
+                                                             ^
+HINT:  You will need to rewrite or cast the expression. D:\www\WEB\bssmitlab\_system\database\drivers\postgre\postgre_driver.php 242
+ERROR - 2019-01-02 10:21:23 --> Query error: ERROR:  column "timestamp" is of type timestamp without time zone but expression is of type integer
+LINE 1: ...('da4lg892mv8rmkasm2r23dd2rbpk5d45', '127.0.0.1', 1546395683...
+                                                             ^
+HINT:  You will need to rewrite or cast the expression. - Invalid query: INSERT INTO "web_service_sessions" ("id", "ip_address", "timestamp", "data") VALUES ('da4lg892mv8rmkasm2r23dd2rbpk5d45', '127.0.0.1', 1546395683, 'X19jaV9sYXN0X3JlZ2VuZXJhdGV8aToxNTQ2Mzk1NjgzOw==')
+ERROR - 2019-01-02 10:21:23 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at D:\www\WEB\bssmitlab\_system\core\Common.php:417) D:\www\WEB\bssmitlab\_system\core\Common.php 564
+ERROR - 2019-01-02 10:22:47 --> Severity: Warning --> pg_query(): Query failed: ERROR:  column &quot;timestamp&quot; is of type timestamp without time zone but expression is of type integer
+LINE 1: ...('da4lg892mv8rmkasm2r23dd2rbpk5d45', '127.0.0.1', 1546395767...
+                                                             ^
+HINT:  You will need to rewrite or cast the expression. D:\www\WEB\bssmitlab\_system\database\drivers\postgre\postgre_driver.php 242
+ERROR - 2019-01-02 10:22:47 --> Query error: ERROR:  column "timestamp" is of type timestamp without time zone but expression is of type integer
+LINE 1: ...('da4lg892mv8rmkasm2r23dd2rbpk5d45', '127.0.0.1', 1546395767...
+                                                             ^
+HINT:  You will need to rewrite or cast the expression. - Invalid query: INSERT INTO "web_service_sessions" ("id", "ip_address", "timestamp", "data") VALUES ('da4lg892mv8rmkasm2r23dd2rbpk5d45', '127.0.0.1', 1546395767, 'X19jaV9sYXN0X3JlZ2VuZXJhdGV8aToxNTQ2Mzk1NzY3Ow==')
+ERROR - 2019-01-02 10:25:52 --> Severity: Warning --> pg_query(): Query failed: ERROR:  value too long for type character varying(6) D:\www\WEB\bssmitlab\_system\database\drivers\postgre\postgre_driver.php 242
+ERROR - 2019-01-02 10:25:52 --> Query error: ERROR:  value too long for type character varying(6) - Invalid query: INSERT INTO "web_service_sessions" ("id", "ip_address", "timestamp", "data") VALUES ('da4lg892mv8rmkasm2r23dd2rbpk5d45', '127.0.0.1', 1546395952, 'X19jaV9sYXN0X3JlZ2VuZXJhdGV8aToxNTQ2Mzk1OTUyOw==')
+ERROR - 2019-01-02 10:29:13 --> Severity: error --> Exception: Unable to locate the model you have specified: Mod_karir_global D:\www\WEB\bssmitlab\_system\core\Loader.php 348
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Bower_components/bootstrap
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Dist/css
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Bower_components/jvectormap
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Bower_components/Ionicons
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Bower_components/bootstrap
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Bower_components/font-awesome
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Bower_components/fastclick
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Dist/js
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Bower_components/jquery-sparkline
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Plugins/jvectormap
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Dist/css
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Plugins/jvectormap
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Bower_components/jquery-slimscroll
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Bower_components/chart.js
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Dist/js
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Dist/js
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Bower_components/jquery
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:30:00 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:30:01 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:30:01 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:30:01 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:30:01 --> 404 Page Not Found: Bower_components/bootstrap
+ERROR - 2019-01-02 02:30:01 --> 404 Page Not Found: Bower_components/fastclick
+ERROR - 2019-01-02 02:30:01 --> 404 Page Not Found: Dist/js
+ERROR - 2019-01-02 02:30:01 --> 404 Page Not Found: Bower_components/jquery-sparkline
+ERROR - 2019-01-02 02:30:01 --> 404 Page Not Found: Plugins/jvectormap
+ERROR - 2019-01-02 02:30:01 --> 404 Page Not Found: Plugins/jvectormap
+ERROR - 2019-01-02 02:30:01 --> 404 Page Not Found: Bower_components/jquery-slimscroll
+ERROR - 2019-01-02 02:30:01 --> 404 Page Not Found: Bower_components/chart.js
+ERROR - 2019-01-02 02:30:01 --> 404 Page Not Found: Dist/js
+ERROR - 2019-01-02 02:30:01 --> 404 Page Not Found: Dist/js
+ERROR - 2019-01-02 02:30:04 --> 404 Page Not Found: Bower_components/bootstrap
+ERROR - 2019-01-02 02:30:04 --> 404 Page Not Found: Dist/css
+ERROR - 2019-01-02 02:30:04 --> 404 Page Not Found: Bower_components/font-awesome
+ERROR - 2019-01-02 02:30:04 --> 404 Page Not Found: Bower_components/Ionicons
+ERROR - 2019-01-02 02:30:04 --> 404 Page Not Found: Bower_components/jvectormap
+ERROR - 2019-01-02 02:30:04 --> 404 Page Not Found: Dist/css
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: Dist/js
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: Dist/js
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:43 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:46 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:46 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:46 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:46 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:33:46 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:34:15 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:34:24 --> 404 Page Not Found: Dist/css
+ERROR - 2019-01-02 02:35:59 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:35:59 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:35:59 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:35:59 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:35:59 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:35:59 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:35:59 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:35:59 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:35:59 --> 404 Page Not Found: Dist/js
+ERROR - 2019-01-02 02:35:59 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:36:31 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:36:31 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:36:31 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:36:31 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:36:31 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:36:31 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:36:31 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:36:31 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:36:31 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:10 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:29 --> 404 Page Not Found: _assets/sipedes
+ERROR - 2019-01-02 02:38:42 --> 404 Page Not Found: Bootstrap/css
+ERROR - 2019-01-02 02:39:36 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:39:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:39:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:39:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:39:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:39:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:39:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:39:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:39:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:40:55 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:40:55 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:40:55 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:40:55 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:40:55 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:40:55 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:40:55 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:40:55 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:40:55 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:34 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:34 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:34 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:34 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:34 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:34 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:34 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:34 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:34 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:41:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:24 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:24 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:24 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:24 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:24 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:24 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:24 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:24 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:24 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:36 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:36 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:36 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:42:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:43:26 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:43:26 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:43:26 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:43:26 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:43:26 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:43:26 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:43:26 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:43:26 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:43:27 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:44:23 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:44:26 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:45:56 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:48:48 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:49:13 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 02:52:39 --> 404 Page Not Found: Dist/img
+ERROR - 2019-01-02 13:23:23 --> Severity: Warning --> pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host &quot;barengin.com&quot; (139.99.46.120) and accepting
+	TCP/IP connections on port 5432? D:\www\WEB\bssmitlab\_system\database\drivers\postgre\postgre_driver.php 154
+ERROR - 2019-01-02 13:23:23 --> Unable to connect to the database
+ERROR - 2019-01-02 13:24:06 --> Severity: Warning --> pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host &quot;barengin.com&quot; (139.99.46.120) and accepting
+	TCP/IP connections on port 5432? D:\www\WEB\bssmitlab\_system\database\drivers\postgre\postgre_driver.php 154
+ERROR - 2019-01-02 13:24:06 --> Unable to connect to the database

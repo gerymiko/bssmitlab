@@ -1,0 +1,6 @@
+ERROR - 2020-08-22 11:10:21 --> Severity: Error --> Call to undefined method Mod_resume_ap::table_resume_ap_q2() D:\www\WEB\bssmitlab\_apps\dashboard_app\controllers\trans\cresumeap\Sysresumeap.php 137
+ERROR - 2020-08-22 11:59:46 --> Severity: Error --> Call to undefined method Mod_resume_ap::table_resume_ap_q2() D:\www\WEB\bssmitlab\_apps\dashboard_app\controllers\trans\cresumeap\Sysresumeap.php 137
+ERROR - 2020-08-22 12:02:37 --> Severity: Error --> Call to undefined method Mod_resume_ap::table_resume_ap_q2() D:\www\WEB\bssmitlab\_apps\dashboard_app\controllers\trans\cresumeap\Sysresumeap.php 137
+ERROR - 2020-08-22 12:02:40 --> Severity: Error --> Call to undefined method Mod_resume_ap::table_resume_ap_q2() D:\www\WEB\bssmitlab\_apps\dashboard_app\controllers\trans\cresumeap\Sysresumeap.php 137
+ERROR - 2020-08-22 12:02:57 --> Severity: Error --> Call to undefined method Mod_resume_ap::table_resume_ap_q2() D:\www\WEB\bssmitlab\_apps\dashboard_app\controllers\trans\cresumeap\Sysresumeap.php 137
+ERROR - 2020-08-22 12:05:12 --> Severity: Notice --> Undefined variable: id D:\www\WEB\bssmitlab\_apps\dashboard_app\models\trans\mresumeap\Mod_resume_ap.php 128

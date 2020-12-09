@@ -1,0 +1,9 @@
+ERROR - 2020-03-02 08:38:17 --> Severity: Notice --> Undefined variable: listpic D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 44
+ERROR - 2020-03-02 08:38:17 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 44
+ERROR - 2020-03-02 08:44:17 --> Severity: Notice --> Undefined variable: listpic D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 44
+ERROR - 2020-03-02 08:44:17 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 44
+ERROR - 2020-03-02 08:50:22 --> Severity: Notice --> Undefined variable: listpic D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 44
+ERROR - 2020-03-02 08:50:22 --> Severity: Warning --> Invalid argument supplied for foreach() D:\www\WEB\bssmitlab\_apps\portalz_app\views\pages\pmaster\vpic.php 44
+ERROR - 2020-03-02 09:15:12 --> Severity: Error --> Call to a member function from() on array D:\www\WEB\bssmitlab\_apps\portalz_app\models\mmaster\mod_pic.php 72
+ERROR - 2020-03-02 09:16:30 --> Severity: Error --> Call to a member function from() on array D:\www\WEB\bssmitlab\_apps\portalz_app\models\mmaster\mod_pic.php 72
+ERROR - 2020-03-02 09:16:34 --> Severity: Error --> Call to a member function from() on array D:\www\WEB\bssmitlab\_apps\portalz_app\models\mmaster\mod_pic.php 72

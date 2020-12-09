@@ -1,0 +1,14 @@
+ERROR - 2020-04-07 10:28:58 --> Severity: Notice --> Undefined variable: stpass D:\www\WEB\bssmitlab\_apps\mosento_app\views\pages\psite\vchoose_site.php 134
+ERROR - 2020-04-07 10:28:58 --> Severity: Warning --> filesize(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 73
+ERROR - 2020-04-07 10:28:58 --> Severity: Warning --> filemtime(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 74
+ERROR - 2020-04-07 10:28:58 --> Severity: Warning --> readfile(D:\/images/karir/upload/default//160.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 77
+ERROR - 2020-04-07 10:29:01 --> Severity: Warning --> filesize(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 73
+ERROR - 2020-04-07 10:29:01 --> Severity: Warning --> filemtime(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 74
+ERROR - 2020-04-07 10:29:01 --> Severity: Warning --> readfile(D:\/images/karir/upload/default//160.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 77
+ERROR - 2020-04-07 10:29:21 --> Severity: Notice --> Undefined variable: stpass D:\www\WEB\bssmitlab\_apps\mosento_app\views\pages\psite\vchoose_site.php 134
+ERROR - 2020-04-07 10:29:21 --> Severity: Warning --> filesize(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 73
+ERROR - 2020-04-07 10:29:21 --> Severity: Warning --> filemtime(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 74
+ERROR - 2020-04-07 10:29:21 --> Severity: Warning --> readfile(D:\/images/karir/upload/default//160.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 77
+ERROR - 2020-04-07 10:29:22 --> Severity: Warning --> filesize(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 73
+ERROR - 2020-04-07 10:29:22 --> Severity: Warning --> filemtime(): stat failed for D:\/images/karir/upload/default//160.png D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 74
+ERROR - 2020-04-07 10:29:22 --> Severity: Warning --> readfile(D:\/images/karir/upload/default//160.png): failed to open stream: No such file or directory D:\www\WEB\bssmitlab\_apps\mosento_app\controllers\syslink.php 77

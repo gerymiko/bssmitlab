@@ -1,0 +1,39 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
+
+    class Sysdept extends CI_Controller {
+
+        function __construct() {
+            parent::__construct();
+            if ($this->session->userdata('users_id') == null && $this->session->userdata('bssID') == null) {
+                redirect('logisisse');
+            } else {
+                $this->accessRights = $this->mod_global->get_detailed_user($this->session->userdata('users_id'));
+                if ($this->accessRights==null) {
+                    show_404('', false);
+                }
+            }
+            $this->load->model(['mmaster/mod_dept']);
+        }
+
+        private static function pregReps($string){ 
+            return $result = preg_replace('/[^a-zA-Z0-9- _.]/','', $string);
+        }
+
+        private static function pregRepn($number){ 
+            return $result = preg_replace('/[^0-9]/','', $number);
+        }
+
+        public function master_department(){
+            $data = array(
+                'header'   => 'pages/ext/header',
+                'footer'   => 'pages/ext/footer',
+                'content'  => 'pages/pmaster/vdept',
+                'accessRights' => $this->accessRights,
+                'css_script' => array(),
+                'js_script'  => array(),
+            );
+            $this->load->view('pages/pindex/index', $data);
+        }
+
+    }
+?>

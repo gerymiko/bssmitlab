@@ -1,0 +1,2 @@
+ERROR - 2019-07-01 10:29:16 --> Severity: Notice --> Undefined property: stdClass::$trainer_nik E:\www\WEB\bssmitlab\_apps\portal_app\controllers\hrDepartment\cdetail\sysdetailpeople.php 207
+ERROR - 2019-07-01 10:29:24 --> Severity: Notice --> Undefined property: stdClass::$trainer_nik E:\www\WEB\bssmitlab\_apps\portal_app\controllers\hrDepartment\cdetail\sysdetailpeople.php 207
